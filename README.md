@@ -14,7 +14,7 @@ Remove those badges until they work properly on semver.
 
 -->
 [![NSP Status](https://nodesecurity.io/orgs/hapijs/projects/0394bf83-b5bc-410b-878c-e8cf1b92033e/badge)](https://nodesecurity.io/orgs/hapijs/projects/0394bf83-b5bc-410b-878c-e8cf1b92033e)
-[![Known Vulnerabilities](https://snyk.io/test/npm/joi-date-extensions/badge.svg)](https://snyk.io/test/npm/joi-date-extensions) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/hapijs--joi-date-extensions.svg)](https://www.staging.guardrails.io)
+[![Known Vulnerabilities](https://snyk.io/test/npm/joi-date-extensions/badge.svg)](https://snyk.io/test/npm/joi-date-extensions) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/hapijs--joi-date-extensions.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/hapijs--joi-date-extensions.svg)](https://www.guardrails.io)
 
 Lead Maintainer: [Nicolas Morel](https://github.com/marsup)
 
